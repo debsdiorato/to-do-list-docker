@@ -1,4 +1,2 @@
-ALTER TABLE tarefas
-    ADD COLUMN concluida BOOLEAN NOT NULL DEFAULT FALSE AFTER titulo;
 
-DESCRIBE tarefas;
+
